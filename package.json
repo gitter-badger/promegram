@@ -4,6 +4,7 @@
   "description": "Telegram notification bot for Prometheus DLS",
   "main": "promegram.coffee",
   "scripts": {
+    "start": "./node_modules/.bin/coffee promegram.coffee",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
