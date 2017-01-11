@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/d3adc0d3/promegram#readme",
   "dependencies": {
+    "btoa": "^1.1.2",
     "coffee-script": "^1.12.2",
+    "fs-promise": "^1.0.0",
     "node-telegram-bot-api": "^0.25.0"
   }
 }
