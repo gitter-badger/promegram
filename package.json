@@ -27,5 +27,9 @@
     "coffee-script": "^1.12.2",
     "fs-promise": "^1.0.0",
     "node-telegram-bot-api": "^0.25.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
   }
 }
